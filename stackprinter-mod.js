@@ -45,8 +45,8 @@ function ScriptContent () {
   linkAnchor.appendChild(image);
   printDiv.appendChild(linkAnchor);
 
-  var elementVote = document.getElementsByClassName('js-voting-container')[0];
-  elementVote.appendChild(printDiv);
+  var questionHeader = document.getElementById('question-header');
+  questionHeader.prepend(printDiv);
 }
 
 function AddScript() {
