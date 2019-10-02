@@ -10,4 +10,4 @@ CHANGES:
   3. Changed voting block selector
   
 INSTALL:
-  Just use grease monkey extension.
+  Just use grease monkey extension or go to https://greasyfork.org/en/scripts/390705-stack-overflow-stackprinter-mod and press "Install"
